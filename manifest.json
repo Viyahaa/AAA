@@ -1,0 +1,16 @@
+{
+  "short_name": "EmevineFinance",
+  "name": "The best DeFi ecosystem DEX",
+  "icons": [
+    {
+      "src": "emevinefinance.png",
+      "type": "image/png",
+      "sizes": "200x200",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#fbd343",
+  "background_color": "#ffffff"
+}
