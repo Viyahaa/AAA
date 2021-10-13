@@ -347,7 +347,8 @@ background-image: url(../img/Ftm-item-icon-2.png);
   .Eth[data-v-3cbe7340],
   .Heco[data-v-3cbe7340] {
     background-size: cover;
-    background-position: 50%;
+
+    background-position: 100%;
   }
   .Bsc[data-v-3cbe7340] {
     background-image: url(../img/Bsc-banner-pc.8cbb9b47.png);
@@ -355,7 +356,7 @@ background-image: url(../img/Ftm-item-icon-2.png);
   .Bsc-home-en[data-v-3cbe7340] {
     background-image: url(../img/Bsc-home-banner-pc-en.709f4c4e.png);
     background-size: cover;
-    background-position: 50%;
+    background-position: 100%;
   }
   .Eth[data-v-3cbe7340] {
     background-image: url(../img/Eth-banner-pc.52cd4f80.png);
@@ -366,6 +367,7 @@ background-image: url(../img/Ftm-item-icon-2.png);
   .Ftm-home-en[data-v-3cbe7340] {
     background-image: url(../img/Ftm-banner-pc.8cbb9b47.png);
     background-size: cover;
+    background-color: #27878e
     background-position: 50%;
   }
   .h5[data-v-3cbe7340] {
