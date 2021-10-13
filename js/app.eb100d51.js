@@ -1493,6 +1493,21 @@
                           [e._v(e._s(e.$t("capitalPool")))]
                         ),
                         a(
+
+                          "a",
+
+                          {
+
+                            staticClass: "nav__list-item",
+
+                            attrs: { href: e.chainConfig.fundUrl + e.getLang },
+
+                          },
+
+                          [e._v(e._s(e.$t("Launchpad")))]
+
+                        ),
+                        a(
                           "router-link",
                           {
                             staticClass: "nav__list-item",
